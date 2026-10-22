@@ -30,6 +30,7 @@ Download the data
 <pre>
     python -m data-download.DataDownload --out data/archive/ --genres data-download/targets.txt
 </pre>
+This step only needs to be executed once.
 
 Do basic analysis
 <pre>
@@ -59,7 +60,7 @@ Python 3.13
 
 William Berthouex<br>
 Email: wberthou@depaul.edu<br>
-Project Link: [GitHub]()
+Project Link: [GitHub](https://github.com/StateControlled/dsc478-final-project)
 
 ## 6. Acknowledgements
 
